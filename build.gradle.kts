@@ -7,6 +7,7 @@ plugins {
 group = 'ra'
 version = '0.0.1-SNAPSHOT'
 sourceCompatibility = '1.8'
+java.sourceCompatibility = JavaVersion.VERSION_17
 
 configurations {
     compileOnly {
